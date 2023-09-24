@@ -1,6 +1,14 @@
 # BanorteHackMTY
 Agente Financiero entrenado con LangChain y OpenAI con información de fondos de inversiones del Banco Banorte
 
+# Equipo:
+
+Andrea Núñez García
+Yahir Alexandro Rivera Huerta
+Santiago De Lira Robles
+David Alejandr González Ibarra 
+
+
 
 Este proyecto consiste en la implementación de un agente de asesoría financiera
 para indetificar el perfil de inversor de un usuario y ser recomendado el mejor plan de financiamiento que se le ajuste
